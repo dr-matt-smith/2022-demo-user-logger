@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MattDataLogger" t="Include">
+          <e p="_Scripts" t="Include">
+            <e p="AddToLogFile.cs" t="Include" />
+            <e p="ScreenToFile.cs" t="Include" />
+          </e>
+          <e p="README.cs" t="Include" />
+        </e>
+        <e p="Scene2EntryLogger.cs" t="Include" />
+        <e p="Scene3Behaviour.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+      </e>
+      <e p="unity-user-action-logger-master.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_unity-user-action-logger-master.-2107100832.00" t="ExcludeRecursive" />
+  </component>
+</project>
